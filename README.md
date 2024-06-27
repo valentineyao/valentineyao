@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFF2CD&center=true&repeat=false&random=false&width=530&height=55&lines=%F0%9F%91%8B+Hello%2C+I+am+Valentine+%F0%9F%91%8B" alt="Typing SVG Presentation" align="center" />
   <br /><br />
   <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" alt="Girl typing on her PC keyboard Gif" style="width: 300px;" align="right" />
-  <p align="center"><strong>A passionate full stack developer from France</strong></p>
+  <p align="center"><strong>A passionate frontend/full stack developer from France</strong></p>
   <p align="left">👨‍💻 All of my projects are available at <a href="https://aurozia.ndda.fr/">https://aurozia.ndda.fr</a></p>
   <p align="left">📫 You can contact me at <a href="mailto:valentine.yao.pro@gmail.com">valentine.yao.pro@gmail.com</a></p>
   <br />
